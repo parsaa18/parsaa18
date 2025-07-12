@@ -3,8 +3,11 @@
 ## About Me
 
 I'm Parsa Aghaee, A **Front-End Developer**. I make applications using **React** and **Next.js**, and I have over 4 years of experience in this field. 
+
 I like my code to be clean and scalable; I like my application to be more performant, so I really like to read docs about achieving my goals, and also to work with seniors with more experience than I, so they could help me improve my skills.
+
 Also, I'm currently learning more about **Back-End Development** right now, and I have some familiarity with it (though I'm not specialized in that area).
+
 Another thing about me; I mentor junior developers with less experience than I. I've been doing this for a year, and it has been beneficial for both them and me, as I continuously look out for their mistakes and help them improve
 
 ## 🚀 Skills
