@@ -1,17 +1,10 @@
-# Hi there, I'm Parsa Aghaee 👋
-
+# Hellooo Pal!! 👋
+# Welcome to my humble profile.
 ## About Me
 
-I'm a **Front-End Developer** specializing in building dynamic, responsive, and user-friendly web applications with **React**. With **3 years of experience**, I focus on delivering clean, maintainable, and efficient code while staying updated with the latest trends in web development. 
+I'm Parsa Aghaee, A **Front-End Developer**. I make applications using **React** and **Next.js**, and I have over 4 years of experience in doing so. I'm currently learning more about **Back-End Development** right now, and I have some amount of familiarity with it (Not specialized).
+I like my code to be clean and scalable; I like my application to be more performant, so I really like to read docs about achieving my goals and also to work with seniors with more experience than me so they could help my improve my skills.
 
-📍 Based in **Iran**
-
-💻 Passionate about: 
-- Creating seamless user experiences
-- Exploring new web technologies
-- Mentoring fellow developers
-
----
 
 ## 🚀 Skills
 
