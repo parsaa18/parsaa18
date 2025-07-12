@@ -46,7 +46,7 @@ I like my code to be clean and scalable; I like my application to be more perfor
 - Pixel-perfect web design
 - Responsive web development
 - Debugging and troubleshooting
-
+- Scalable and Performant Web Application
 ---
 
 
